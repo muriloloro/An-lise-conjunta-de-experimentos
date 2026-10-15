@@ -1,11 +1,12 @@
 Package: exp
 Type: Package
 Title: Analise de Experimentos em DIC, DBC e DQL
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: person("Murilo", "Loro", role = c("aut", "cre"), email = "muriloloro@users.noreply.github.com")
 Description: Analise de variancia para delineamentos inteiramente casualizados,
     blocos casualizados e quadrados latinos balanceados. Comparacoes de medias
-    e regressao polinomial para tratamentos quantitativos.
+    e regressao polinomial para tratamentos quantitativos em esquemas
+    unifatoriais, bifatoriais e trifatoriais, com desdobramento de interacoes.
 License: GPL-3
 Encoding: UTF-8
 Depends: R (>= 4.0.0)
