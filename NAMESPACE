@@ -1,0 +1,6 @@
+export(dic)
+export(dbc)
+export(dql)
+export(comparar)
+export(regressao)
+S3method(print,exp_anova)
